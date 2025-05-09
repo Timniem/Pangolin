@@ -12,12 +12,11 @@ See below for information on usage and local installation.
   * If a supported GPU is available, installation with GPU support is recommended (choose an option under "Compute Platform")
 * Install other dependencies:
   ```
-  conda install -c conda-forge pyvcf
-  pip install gffutils biopython pandas pyfastx
+  pip install gffutils biopython pandas pyfastx cyvcf2
   ```
 * Install Pangolin:
   ```
-  git clone https://github.com/tkzeng/Pangolin.git
+  git clone https://github.com/Timniem/Pangolin.git
   cd Pangolin
   pip install .
   ```
