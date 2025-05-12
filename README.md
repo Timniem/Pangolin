@@ -7,7 +7,7 @@ Pangolin can be run on Google Colab, which provides free acess to GPUs and other
 See below for information on usage and local installation.
 
 ### Installation
-* Prerequisites: Python 3.6 or higher and conda, which can both be installed using Miniconda: https://docs.conda.io/en/latest/miniconda.html
+* Prerequisites: Python 3.6 or higher
 * Install PyTorch: https://pytorch.org/get-started/locally/
   * If a supported GPU is available, installation with GPU support is recommended (choose an option under "Compute Platform")
 * Install other dependencies:
